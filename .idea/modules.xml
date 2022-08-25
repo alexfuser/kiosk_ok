@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kiosko_ok.iml" filepath="$PROJECT_DIR$/.idea/modules/kiosko_ok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kiosko_ok.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kiosko_ok.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kiosko_ok.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kiosko_ok.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kiosko_ok.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kiosko_ok.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kiosko_ok.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kiosko_ok.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
